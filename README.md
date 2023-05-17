@@ -12,6 +12,6 @@ As a computer engineering student passionate about full-stack development, I am 
 As such, I've taken many front-end courses and training in addition to college courses in many programming languages and concepts, including HTML, CSS, and JS.
 
 - 🔍 Checkout my recent projects : 
-  - Net Cafe Website https://github.com/MorcousWael/Boostrap-Responsive-Project-net-cafe
+  - Net Cafe Website github.com/MorcousWael/Boostrap-Responsive-Project-net-cafe
 
 - 💬 Feel free to contact me anytime
