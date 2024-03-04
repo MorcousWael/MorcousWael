@@ -7,11 +7,14 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm currently an Undergraduate student at Ain Shams university,aspiring to become a full stack developer<br/>
-As a computer engineering student passionate about full-stack development, I am eager to apply my skills and knowledge to build innovative and helpful websites.<br/>
-As such, I've taken many front-end courses and training in addition to college courses in many programming languages and concepts, including HTML, CSS, and JS.
+I'm currently a senior student at Ain Shams university,aspiring to become a flutter developer<br/>
+As a computer engineering student passionate about flutter development, I am eager to apply my skills and knowledge to build innovative and helpful applications.<br/>
+As such, I've taken multiple flutter courses and training in addition to college courses in many programming languages and concepts, including android and flutter development.
 
-- 🔍 Checkout my recent projects : 
+- 🔍 Checkout my recent projects :
+  -
+  -
   - Net Cafe Website https://github.com/MorcousWael/Boostrap-Responsive-Project-net-cafe
 
-- 💬 Feel free to contact me anytime
+- 💬 Feel free to contact me anytime.
+-  morcouswael@gmail.com
