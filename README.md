@@ -12,8 +12,9 @@ As a computer engineering student passionate about flutter development, I am eag
 As such, I've taken multiple flutter courses and training in addition to college courses in many programming languages and concepts, including android and flutter development.
 
 - 🔍 Checkout my recent projects :
-  -
-  -
+  - gdsc sessions with multiple tasks: https://github.com/MorcousWael/flutter_gdsc_sessions.git
+  - ASU Carpool college project : https://github.com/MorcousWael/flutter_carpool_ASU.git
+  - e-commerce mobile: https://github.com/MorcousWael/Flutter-e-commerce-application.git
   - Net Cafe Website https://github.com/MorcousWael/Boostrap-Responsive-Project-net-cafe
 
 - 💬 Feel free to contact me anytime.
