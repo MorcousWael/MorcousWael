@@ -7,10 +7,11 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm currently a senior student at Ain Shams university,aspiring to become a flutter developer<br/>
-As a computer engineering student passionate about flutter development, I am eager to apply my skills and knowledge to build innovative and helpful applications.<br/>
-As such, I've taken multiple flutter courses and training in addition to college courses in many programming languages and concepts, including android and flutter development.
+I’m a Frontend Developer at Link Development, where I work on enterprise-scale Angular applications with a focus on clean architecture and responsive UI.
 
+I graduated from Ain Shams University with a degree in Computer Engineering. During college, I explored various programming technologies but found a strong passion for mobile development — especially Flutter. I built multiple projects using Flutter, both for academic requirements and through self-driven learning.
+
+Today, I combine my experience in Angular and Flutter to create practical, user-focused applications, and I’m constantly pushing myself to grow in both performance and design.
 - 🔍 Checkout my recent projects :
   - gdsc sessions with multiple tasks: https://github.com/MorcousWael/flutter_gdsc_sessions.git
   - ASU Carpool college project : https://github.com/MorcousWael/flutter_carpool_ASU.git
