@@ -7,11 +7,12 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I’m a Frontend Developer at Link Development, where I work on enterprise-scale Angular applications with a focus on clean architecture, responsiveness, and performance.
+I’m a Frontend Developer at Link Development, working on enterprise-scale Angular applications with a strong emphasis on clean architecture, responsive design, and performance optimization.
 
-I hold a dual-degree in Computer Engineering from Ain Shams University, and throughout my academic and professional journey, I’ve built a strong foundation across web, mobile, and data-related technologies.
-In addition to frontend development, I’ve worked on mobile apps using Flutter, as well as data analysis projects involving preprocessing, classification models, and outlier detection.
-My technical skill set includes Angular, TypeScript, JavaScript, Python, Java, and more — enabling me to contribute effectively across different domains. I’m passionate about clean code, thoughtful UI design, and continuous learning in the ever-evolving world of software engineering.
+I hold a dual degree in Computer Engineering from Ain Shams University and the University of East London. Throughout both my academic and professional journey, I’ve developed a solid foundation in web, mobile, and data-focused technologies.
+
+Alongside frontend development, I’ve built mobile apps using Flutter, and gained hands-on experience in data analysis, including preprocessing, classification models, and outlier detection.
+My technical skill set includes Angular, TypeScript, JavaScript, Flutter, Python, Java, and more — allowing me to contribute effectively across different domains. I’m passionate about writing clean, maintainable code, crafting thoughtful UI/UX, and continuously growing as a developer in the ever-evolving world of software engineering.
 
 Today, I combine my experience in Angular and Flutter to create practical, user-focused applications, and I’m constantly pushing myself to grow in both performance and design.
 - 🔍 Checkout my recent projects :
