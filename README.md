@@ -22,4 +22,6 @@ Today, I combine my experience in Angular and Flutter to create practical, user-
   - Net Cafe Website https://github.com/MorcousWael/Boostrap-Responsive-Project-net-cafe
 
 - 💬 Feel free to contact me anytime.
--  morcouswael@gmail.com
+- Email: morcouswael@gmail.com
+- GitHub: github.com/morcouswael
+ -LinkedIn: linkedin.com/in/morcous-wael
