@@ -23,5 +23,4 @@ Today, I combine my experience in Angular and Flutter to create practical, user-
 
 - 💬 Feel free to contact me anytime.
 - Email: morcouswael@gmail.com
-- GitHub: github.com/morcouswael
- -LinkedIn: linkedin.com/in/morcous-wael
+
