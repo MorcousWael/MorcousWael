@@ -16,7 +16,7 @@ My technical skill set includes Angular, TypeScript, JavaScript, Flutter, Python
 
 Today, I combine my experience in Angular and Flutter to create practical, user-focused applications, and I’m constantly pushing myself to grow in both performance and design.
 - 🔍 Checkout my portfolio :
-- 
+  - https://morcouswael.github.io/morcous-wael-portofolio/
 
 - 🔍 Checkout my recent projects :
   - gdsc sessions with multiple tasks: https://github.com/MorcousWael/flutter_gdsc_sessions.git
