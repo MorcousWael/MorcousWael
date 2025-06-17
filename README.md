@@ -15,6 +15,9 @@ Alongside frontend development, I’ve built mobile apps using Flutter, and gain
 My technical skill set includes Angular, TypeScript, JavaScript, Flutter, Python, Java, and more — allowing me to contribute effectively across different domains. I’m passionate about writing clean, maintainable code, crafting thoughtful UI/UX, and continuously growing as a developer in the ever-evolving world of software engineering.
 
 Today, I combine my experience in Angular and Flutter to create practical, user-focused applications, and I’m constantly pushing myself to grow in both performance and design.
+- 🔍 Checkout my portfolio :
+- 
+
 - 🔍 Checkout my recent projects :
   - gdsc sessions with multiple tasks: https://github.com/MorcousWael/flutter_gdsc_sessions.git
   - ASU Carpool college project : https://github.com/MorcousWael/flutter_carpool_ASU.git
